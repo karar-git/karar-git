@@ -72,26 +72,7 @@ My focus is on **large language models, multimodal systems, and reinforcement le
 ## ⚡️ Stats
 
 <div align="center">
-  <img width="390"
-       src="https://streak-stats.demolab.com/?user=karar-git&theme=transparent&border_radius=10&hide_border=false"
-       alt="GitHub streak stats" />
-  <br><br>
-  <img width="390"
-       src="https://github-readme-stats.vercel.app/api?username=karar-git&show_icons=true&theme=transparent&border_radius=10&hide_border=false&rank_icon=github"
-       alt="GitHub stats" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karar-git&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph"
-       alt="Contribution Graph" />
-</div>
-
-<hr>
-
-## 🤖 AI & Research Focus
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Large%20Language%20Models-4493F8?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Method-RLHF%20%7C%20DPO%20%7C%20GRPO-0A66C2?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Area-NLP%20%7C%20Multimodal-6B4FBB?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karar-git&theme=transparent&count_private=true&border_radius=10&locale=en" alt="GitHub streak stats" />
 </div>
 
 <hr>
