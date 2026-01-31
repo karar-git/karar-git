@@ -73,6 +73,8 @@ My focus is on **large language models, multimodal systems, and reinforcement le
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karar-git&theme=transparent&count_private=true&border_radius=10&locale=en" alt="GitHub streak stats" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karar-git&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <hr>
