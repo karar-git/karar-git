@@ -49,7 +49,7 @@ My focus is on **large language models, multimodal systems, and reinforcement le
 
 ### ⚙️ Systems, Automation & Infra
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=linux,,github" />
 </p>
 
 ### 🧰 Dev & Research Tools
