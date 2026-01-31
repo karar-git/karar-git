@@ -68,7 +68,11 @@ My focus is on **large language models, multimodal systems, and reinforcement le
 
 ## ⚡️ Stats
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=karar-git&theme=transparent&count_private=true&border_radius=10&locale=en" alt="karar-git's" />
+
+<div align="center">
+  <img width="390"
+       src="https://streak-stats.demolab.com?user=karar-git&theme=transparent&border_radius=10"
+       alt="GitHub streak stats" />
 </div>
+
 <hr>
