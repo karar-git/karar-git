@@ -76,3 +76,13 @@ My focus is on **large language models, multimodal systems, and reinforcement le
 </div>
 
 <hr>
+
+## 🤖 AI & Research Focus
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Large%20Language%20Models-4493F8?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Method-RLHF%20%7C%20DPO%20%7C%20GRPO-0A66C2?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Area-NLP%20%7C%20Multimodal-6B4FBB?style=for-the-badge&logo=huggingface&logoColor=white" />
+</div>
+
+<hr>
