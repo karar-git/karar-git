@@ -73,11 +73,11 @@ My focus is on **large language models, multimodal systems, and reinforcement le
 
 <div align="center">
   <img width="390"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=karar-git&theme=transparent&border_radius=10"
+       src="https://streak-stats.demolab.com/?user=karar-git&theme=transparent&border_radius=10&hide_border=false"
        alt="GitHub streak stats" />
   <br><br>
   <img width="390"
-       src="https://github-readme-stats.vercel.app/api?username=karar-git&show_icons=true&theme=transparent&border_radius=10"
+       src="https://github-readme-stats.vercel.app/api?username=karar-git&show_icons=true&theme=transparent&border_radius=10&hide_border=false&rank_icon=github"
        alt="GitHub stats" />
 </div>
 
