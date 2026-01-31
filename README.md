@@ -1,6 +1,7 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/karar-git/count.svg" alt="Visitor's Count" />
+
+
+<div align="center">
+  <img src="https://visitorbadge.io/api/visitors?path=karar-git&label=Visitors&countColor=%234493F8" />
 </div>
 
 <img src="https://github.com/karar-git/karar-git/blob/main/photo_2026-01-31_11-28-06.jpg" alt="Banner of a developer sitting in front of a desk">
