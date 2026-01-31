@@ -66,13 +66,19 @@ My focus is on **large language models, multimodal systems, and reinforcement le
 - 🎨 **Multimodal generation** (text, image, voice)
 - ⚙️ **Production AI backends** (APIs, pipelines, orchestration)
 
+
 ## ⚡️ Stats
+
 <br>
 
 <div align="center">
   <img width="390"
-       src="https://streak-stats.demolab.com?user=karar-git&theme=transparent&border_radius=10"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=karar-git&theme=transparent&border_radius=10"
        alt="GitHub streak stats" />
+  <br><br>
+  <img width="390"
+       src="https://github-readme-stats.vercel.app/api?username=karar-git&show_icons=true&theme=transparent&border_radius=10"
+       alt="GitHub stats" />
 </div>
 
 <hr>
