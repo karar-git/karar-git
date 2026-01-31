@@ -1,12 +1,14 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=200&section=header&text=Karar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Research%20Enthusiast&descSize=20&descAlignY=55" width="100%" />
+</div>
+
+<div align="center">
   <p> Visitor count </p>
   <img src="https://komarev.com/ghpvc/?username=karar-git&label=Profile%20Views&color=4493F8&style=flat" alt="Visitor's Count"/>
 </div>
 
-<img src="https://github.com/karar-git/karar-git/blob/main/photo_2026-01-31_11-28-06.jpg" alt="Banner of a developer sitting in front of a desk">
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Karar;AI+%26+Machine+Learning+Research+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;I'm+Karar;Building+the+Future+with+AI" />
 </h1>
 
 ### 🧠 What I’m passionate about
