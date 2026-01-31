@@ -32,3 +32,36 @@ My focus is on **large language models, multimodal systems, and reinforcement le
 </div>
 
 <hr>
+
+
+## 🛠️ Languages, AI Stack & Tools
+
+### 🤖 AI / Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+</p>
+
+### 🧠 LLM & Applied AI
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-RAG%20%7C%20Fine--Tuning%20%7C%20Agents-4493F8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multimodal-Text%20%7C%20Image%20%7C%20Audio-0A66C2?style=for-the-badge" />
+</p>
+
+### ⚙️ Systems, Automation & Infra
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,postgres" />
+</p>
+
+### 🧰 Dev & Research Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,latex,markdown" />
+</p>
+
+---
+
+### 🧪 What I work on
+- 🔬 **LLM fine-tuning & post-training** (DPO / GRPO-style alignment)
+- 🧠 **RAG systems & vector-based retrieval**
+- 🧩 **Agentic AI & structured prompting**
+- 🎨 **Multimodal generation** (text, image, voice)
+- ⚙️ **Production AI backends** (APIs, pipelines, orchestration)
